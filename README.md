@@ -14,4 +14,5 @@
   <img align="center" alt="Alisson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alisson-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
   <img align="center" alt="Alisson-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" >
+  <img align="center" alt="Alisson-GameMaker" height="30" width="40" src="https://www.svgrepo.com/show/373756/light-gamemaker2.svg" >
 </div>
