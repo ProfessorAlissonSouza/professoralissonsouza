@@ -1,10 +1,10 @@
 ## Sou o Professor Alisson Souza!
 
-Licenciado em Matemática - UTFPR - Cornélio Procópio
-Acadêmico em Análise e Desenvolvimento de Sistemas - Unicesumar
-Especialização Latu Sensu - Informática na Educação - Unopar
-Especialização Latu Sensu - Metodologias Atividas e TDICs - Unopar
-Mestrado Stricto Sensu - Bioinformática - UTFPR - Cornélio Procópio
+<p>Licenciado em Matemática - UTFPR - Cornélio Procópio </p>
+<p>Acadêmico em Análise e Desenvolvimento de Sistemas - Unicesumar </p>
+<p>Especialização Latu Sensu - Informática na Educação - Unopar </p>
+<p>Especialização Latu Sensu - Metodologias Atividas e TDICs - Unopar </p>
+<p>Mestrado Stricto Sensu - Bioinformática - UTFPR - Cornélio Procópio </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
